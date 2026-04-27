@@ -6,7 +6,9 @@
 
 AnimeGANv3 高清动漫转换器是一款基于深度学习的视频处理工具，能够将普通视频转换为多种动漫风格。该工具使用 ONNX 模型进行推理，支持 GPU 加速，操作简单直观，适合各种视频动漫化需求。
 
-![AnimeGANv3 界面](https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=AnimeGAN%20desktop%20application%20interface%20with%20dark%20theme%2C%20Chinese%20language%2C%20modern%20UI%20design%2C%20screenshot&image_size=square_hd)
+![AnimeGANv3 界面](<img width="840" height="745" alt="AnimeGANv3 动漫视频转换器" src="https://github.com/user-attachments/assets/66684465-4f65-4d13-a78b-4f625b3c78bd" />
+)>
+)
 
 ## ✨ 功能特性
 
